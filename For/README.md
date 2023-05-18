@@ -22,9 +22,9 @@
 [📚 PositiveNegativeNum.c](https://github.com/luanarruda/C_Studies/blob/main/For/PositiveNegativeNum.c)<h5>Receive 10 numbers and inform if each one of them is negative, positive or null.</h5>
 
 [📚 research.c](https://github.com/luanarruda/C_Studies/blob/main/For/research.c)<h5>A survey that shows 
-- average salary of the population;
-- average number of children;
-- higher salary;
+- average salary of the population
+- average number of children
+- higher salary
 - percentage of people earning up to R$ 1,000.00.
 
 [📚 square.c](https://github.com/luanarruda/C_Studies/blob/main/For/square.c)<h5>A program that prints an arrow according to the desired height.</h5>
